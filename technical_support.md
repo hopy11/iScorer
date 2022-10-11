@@ -14,7 +14,7 @@
 
 # iScorer(ScoreWarrior) App technical support
 
-Dear user, thank you for using the Divider App.
+Dear user, thank you for using the iScorer(ScoreWarrior) App.
 
 If you encounter any problems when using our products, please feel free to contact us, and we will do our best to solve them for you!
 
