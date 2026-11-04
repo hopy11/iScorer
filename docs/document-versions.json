@@ -1,39 +1,39 @@
 {
-  "status": "draft",
-  "effective": false,
-  "catalog": "scoreward-legal-draft-r1",
+  "status": "approved",
+  "publisher": "大熊猫侯佩|PandaHopy",
+  "effectiveDate": "2026-12-12",
+  "websiteBaseURL": "https://hopy11.github.io/iScorer/",
+  "appCatalogModified": false,
   "documents": [
     {
-      "kind": "terms",
-      "version": "terms-draft-r1",
-      "translations": [
-        {
-          "locale": "zh-Hans",
-          "resource": "terms.zh-Hans.md",
-          "sha256": "6ed5835ff4f8ab970f5ff790a719dc3363120e516b7e80ee0b93a8a4786385c0"
+      "id": "privacy",
+      "version": "privacy-1.0",
+      "localizations": {
+        "zh-Hans": {
+          "url": "https://hopy11.github.io/iScorer/privacy.zh-Hans.html",
+          "htmlSHA256": "a1c8aee4cff01d1a0763ea08bd723b55877e9c587a6e17342931db8db3e26936"
         },
-        {
-          "locale": "en",
-          "resource": "terms.en.md",
-          "sha256": "e2f1df5cab52fc52a17dafc82db491222fffa5164e5bd359d986af5153f13982"
+        "en": {
+          "url": "https://hopy11.github.io/iScorer/privacy.en.html",
+          "htmlSHA256": "9f647fa5abf634037222ddd442c22bb6a32b91194774af76bf616a9daea46d79"
         }
-      ]
+      }
     },
     {
-      "kind": "privacy",
-      "version": "privacy-draft-r1",
-      "translations": [
-        {
-          "locale": "zh-Hans",
-          "resource": "privacy.zh-Hans.md",
-          "sha256": "6128159dc575536492ab081edf94316afe699afe25efa8ec78ee23a538b31ba6"
+      "id": "terms",
+      "version": "terms-1.0",
+      "localizations": {
+        "zh-Hans": {
+          "url": "https://hopy11.github.io/iScorer/terms.zh-Hans.html",
+          "htmlSHA256": "e1b5477808b213476eecb848509b7e90804cbf15c1c6145938bfe32db6c8b2f7"
         },
-        {
-          "locale": "en",
-          "resource": "privacy.en.md",
-          "sha256": "894e6377bb874d8fb2a7ec9a2c56f96ec4498bcda98c1f147c7739c1a417e423"
+        "en": {
+          "url": "https://hopy11.github.io/iScorer/terms.en.html",
+          "htmlSHA256": "36cef2b1469bd1bfa7813223fc7edc6bf380c146a669f14f5977d1555ed9b127"
         }
-      ]
+      }
     }
-  ]
+  ],
+  "approvedOn": "2026-11-04",
+  "approvalDate": "2026-11-04"
 }
