@@ -1,0 +1,39 @@
+{
+  "status": "draft",
+  "effective": false,
+  "catalog": "scoreward-legal-draft-r1",
+  "documents": [
+    {
+      "kind": "terms",
+      "version": "terms-draft-r1",
+      "translations": [
+        {
+          "locale": "zh-Hans",
+          "resource": "terms.zh-Hans.md",
+          "sha256": "6ed5835ff4f8ab970f5ff790a719dc3363120e516b7e80ee0b93a8a4786385c0"
+        },
+        {
+          "locale": "en",
+          "resource": "terms.en.md",
+          "sha256": "e2f1df5cab52fc52a17dafc82db491222fffa5164e5bd359d986af5153f13982"
+        }
+      ]
+    },
+    {
+      "kind": "privacy",
+      "version": "privacy-draft-r1",
+      "translations": [
+        {
+          "locale": "zh-Hans",
+          "resource": "privacy.zh-Hans.md",
+          "sha256": "6128159dc575536492ab081edf94316afe699afe25efa8ec78ee23a538b31ba6"
+        },
+        {
+          "locale": "en",
+          "resource": "privacy.en.md",
+          "sha256": "894e6377bb874d8fb2a7ec9a2c56f96ec4498bcda98c1f147c7739c1a417e423"
+        }
+      ]
+    }
+  ]
+}
